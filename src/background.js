@@ -74,12 +74,15 @@ const WHOLEFOODS_DOMAINS = [
 const AMAZON_SERVICES_DOMAINS = [
   "aboutamazon.com",
   "alexa.com",
+  "amazonaws.com",
   "amazoninspire.com",
   "amazonpay.in",
   "amazonteam.org",
   "amzn.to",
+  "awsapps.com",
   "awscloud.com",
   "awsevents.com",
+  "ecsworkshop.com",
   "primevideo.com",
   "twitch.com",
   "twitch.tv"
